@@ -1,0 +1,30 @@
+* {
+    font-family: 
+}
+
+/* nav {
+    background-color: black;
+    z-index: -1;
+} */
+
+.box1 {
+    padding: 40px;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+article > .box2 {
+    padding: 0;
+    margin: 15px;
+    width: 970px;
+}
+
+.box3 {
+    height: 30px;
+    width: 320px;
+    border: 1px #d1d1d1;
+    padding: 1.5px 0;
+    display: inline-block;
+    margin: 0;
+    background-color: white;
+}
